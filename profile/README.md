@@ -17,5 +17,5 @@
 # 贊助：
 ## [patreon](https://www.patreon.com/bear_team)
 
-#支援：
-##https://discord.gg/GwGcDajNjk
+# 支援：
+## https://discord.gg/GwGcDajNjk
