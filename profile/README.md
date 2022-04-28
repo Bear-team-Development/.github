@@ -14,8 +14,8 @@
 #### AI chatbot，但是是beta版
 ##### [邀請](https://discord.com/api/oauth2/authorize?client_id=955973603889926234&permissions=66560&scope=bot)
 
-# 贊助：
-## [patreon](https://www.patreon.com/bear_team)
+## 贊助：
+### [patreon](https://www.patreon.com/bear_team)
 
-# 支援：
-## https://discord.gg/GwGcDajNjk
+## 支援：
+### https://discord.gg/GwGcDajNjk
