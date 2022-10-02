@@ -11,7 +11,7 @@
 ##### [邀請](https://discord.com/api/oauth2/authorize?client_id=888278703975579698&permissions=1099780122646&scope=bot%20applications.commands)
 
 ## 贊助：
-### [patreon](https://www.patreon.com/bear_team)
+### [buymeacoffee](https://www.buymeacoffee.com/cutebear)
 
 ## 支援：
 ### https://discord.gg/GwGcDajNjk
